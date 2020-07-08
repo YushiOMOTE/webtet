@@ -2,8 +2,8 @@
 
 Rust/wasm tetris.
 
-## Try
+## Play
 
 ```
-cargo web play
+cargo web start
 ```
